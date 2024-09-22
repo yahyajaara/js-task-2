@@ -65,6 +65,11 @@ table  thead
     padding: 10px;
 }
 
+.add button:hover
+{
+    background-color:rgb(154, 125, 10 ) ;
+}
+
 .add input
 {
     width: fit-content;
