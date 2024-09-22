@@ -10,7 +10,9 @@ function add ()
                                                             <td> ${(names.length)-1} </td> 
                                                             <td> ${names[(names.length)-1]}</td>
 
-                                                          </tr>` ;
+                                                            </tr>` ;
+    document.querySelector("input").value = emp;
+
     }
 
     else 
